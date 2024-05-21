@@ -1,0 +1,10 @@
+{
+  "main": "quickstart-store.raml",
+  "name": "QuickStart-Store",
+  "groupId": "e97c7b86-9ae4-44e5-aab1-b20bf1fe319c",
+  "assetId": "quickstart-store",
+  "version": "1.0.0",
+  "classifier": "raml",
+  "tags": [],
+  "descriptorVersion": "1.0.0"
+}
